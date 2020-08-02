@@ -1,0 +1,3 @@
+# Bayesian Inferential Statistics Project
+
+In this project, we postulated a distribution to describe the individual charge amounts for non-insured cases. This distribution has two required parameters, which we do not know, but we used PyMC3 to perform Bayesian inference to find our level of "belief" in a range of values for them. We then used the average parameter values to create one simulated data set of the same size as the original, but the distribution of our posteriors for these parameters allowed us to perform simulations of any sample size we desire and for a range of scenarios of different  𝛼  and  𝛽 . This could be a powerful tool to model different financial conditions for the hospital.

@@ -1,0 +1,3 @@
+# Bootstrapping Project
+
+In this mini-project, the same medical charge data was used as in the frequentist inference mini-project, but inferences about the population were made using bootstrapping (ie. simulating repeated re-runs of an experiment.) If frequentism is about using assumptions and theoretical results to calculate what we expect to happen were an experiment to be run again and again and again, then bootstrapping is about using computing power to essentially re-run the sample draw again and again and again to see what actually happens.
